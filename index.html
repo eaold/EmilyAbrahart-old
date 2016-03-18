@@ -13,6 +13,7 @@ description: "'Learn as if you were to live forever' - Ghandi"
             {{ post.subtitle }}
         </h3>
         {% endif %}
+        <p>{{ post.excerpt }} &hellip; </p>
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
