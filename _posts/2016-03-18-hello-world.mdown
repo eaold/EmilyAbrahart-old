@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Hello, World"
+subtitle:   "...Sorry for the cliché"
+date:       2016-03-18 01:00:00
+author:     "Emily"
+header-img: "img/post_bg.jpg"
+---
+
+<p>When I first got the email confirming that I had passed the interview I was shocked, elated and just a little bit scared. Shocked because, following my interview the day before, I was convinced that it wasn't going to happen. Having left my previous job a couple of weeks earlier with a view to finally persuing a direction I had wanted to take for a long time, Makers Academy ticked all of the boxes. The London based startup offers an intensive, fulltime coding bootcamp with the potential to take you from coding zero to full stack hero in just 12 weeks; no mean feat by anyone's standards; but having never been one to shy away from a challenge and a bit of hard work, it sounded exactly what I was looking for. </p>
+
+<p>Despite having known of Makers Academy for a couple of months after seeing an ad for them on Facebook, I applied at the last minute for the April cohort. I spent the time I had going through the preparation materials, trying to squeeze in as much information as possible in the few days I had before the cut-off and whilst I had covered what I needed to, the rush had left me going into the call without much confidence of a successful outcome.</p>
+
+<p>Needless to say, when the email came I was over the moon. I had dabbled in coding a number of times before, initially as a teenage hobby (my Myspace profile game was strong back in the day) and then again on numerous occassions in my career for brief stints here and there. Having come from a scientific/mathematical academic background I moved into technology fairly quickly after leaving university, predominantly in desktop support/infrastructure and whilst I had enjoyed it a great deal and learnt a lot, my passion was always what was going on behind the scenes, in the programs and webpages themselves. I wanted to not only be able to fix things, but also create things of my own.</p>
+
+<p>After working as a Business Analyst and having the opportunity to be part of a team that redesigned and built a number of bespoke company apps, my mind was made up and I decided to take the leap. And that's where the fear came in, because it is a leap. To give up a monthly income, a job you've put a lot of time and effort into, at a company where you were happy for a number of years, for something with no guarantee of admission, let alone success, is a huge risk. But even now, only just coming to the end of the first week of the 4 week pre-course, the fear is slowly giving way to excitement and a quiet confidence that it was a very good risk to take.</p>
+
