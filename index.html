@@ -13,7 +13,7 @@ description: "Aspiring Developer, currently studying with Makers Academy."
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <p>{{ post.excerpt }} &hellip; </p>
+        <p>{{ post.excerpt }} <i>[Click to read more]</i> </p>
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
