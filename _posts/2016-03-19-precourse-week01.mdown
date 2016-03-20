@@ -4,7 +4,7 @@ title:      "Precourse: Week 1"
 subtitle:   "Command Line and Git"
 date:       2016-03-19 23:00:00
 author:     "Emily"
-header-img: "img/post_bg.jpg"
+header-img: "img/post_bg1.jpg"
 ---
 
 <p>The weekend before the precourse started seemed to drag on forever. At first I was happy about it; I was nervous (read:scared) of what was to come. I went back through some of Chris Pine's tutorials which we had been given as interview prep, trying desperately to ensure that all of the stuff I had learnt wouldn't just evaporate from my mind before I'd even got a chance to put it into practice. By the time Sunday night came though, I felt ready and raring to go - I couldn't wait to get started. <!--more--></p> 
